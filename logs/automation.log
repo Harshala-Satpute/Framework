@@ -1,0 +1,141 @@
+2026-08-24 14:33:37 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\ASUS\eclipse-workspace\Framework\src\test\java\testBase\Master1.xml] otherwise TestNG may fail or not work as expected.
+2026-08-24 14:33:47 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\ASUS\eclipse-workspace\Framework\src\test\java\testBase\Master1.xml] otherwise TestNG may fail or not work as expected.
+2026-08-24 14:34:16 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\ASUS\eclipse-workspace\Framework\src\test\java\testBase\Master1.xml] otherwise TestNG may fail or not work as expected.
+2026-08-24 14:39:51 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\ASUS\eclipse-workspace\Framework\src\test\java\testcase\Master1.xml] otherwise TestNG may fail or not work as expected.
+2026-08-24 14:43:49 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\ASUS\eclipse-workspace\Framework\src\test\java\testcase\Master1.xml] otherwise TestNG may fail or not work as expected.
+2026-08-24 14:43:49 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ASUS\eclipse-workspace\Framework\src\test\java\testcase\Master1.xml
+
+2026-08-24 14:44:00 INFO  TC_002LoginTest:15 - **** Starting TC_002_LoginTest  ****
+2026-08-24 14:44:00 INFO  TC_002LoginTest:22 - clicked on myaccount link on the home page..
+2026-08-24 14:44:01 INFO  TC_002LoginTest:24 - clicked on login link under myaccount..
+2026-08-24 14:44:01 INFO  TC_002LoginTest:28 - Entering valid email and password..
+2026-08-24 14:44:01 INFO  TC_002LoginTest:32 - clicked on ligin button..
+2026-08-24 14:44:03 INFO  TC_002LoginTest:46 - **** Finished TC_002_LoginTest  ****
+2026-08-24 17:09:47 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\ASUS\eclipse-workspace\Framework\src\test\java\testcase\grouping.xml] otherwise TestNG may fail or not work as expected.
+2026-08-24 17:09:59 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\ASUS\eclipse-workspace\Framework\src\test\java\testcase\grouping.xml] otherwise TestNG may fail or not work as expected.
+2026-08-24 17:10:39 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\ASUS\eclipse-workspace\Framework\src\test\java\testcase\grouping.xml] otherwise TestNG may fail or not work as expected.
+2026-08-24 17:10:39 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ASUS\eclipse-workspace\Framework\src\test\java\testcase\grouping.xml
+
+2026-08-24 17:12:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-08-24 17:12:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-08-24 17:12:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-24 17:12:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-24 17:12:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-24 17:12:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-24 17:12:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-24 17:12:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-24 17:12:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2026-08-24 17:12:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+2026-08-24 17:12:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-24 17:12:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-24 17:12:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-24 17:12:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-24 17:12:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-24 17:12:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-24 17:12:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-24 17:12:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-24 17:12:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-24 17:12:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-24 17:12:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-24 17:12:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-24 17:12:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-24 17:12:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-24 17:12:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-24 17:12:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-24 17:12:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-24 17:12:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-24 17:12:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-24 17:12:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-24 17:12:14 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ASUS\AppData\Local\Temp\testng-eclipse-44202566\testng-customsuite.xml
+
+2026-08-24 17:12:14 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2026-08-24 17:12:15 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@78365cfa: 131 ms
+2026-08-24 17:12:15 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@b70da4c: 21 ms
+2026-08-24 17:12:15 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@2eced48b: 24 ms
+2026-08-24 17:12:15 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@43aaf813: 10 ms
+2026-08-24 17:12:15 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7c098bb3: 9 ms
+2026-08-24 17:12:15 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@31e4bb20: 0 ms
+2026-08-24 17:12:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-08-24 17:12:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2026-08-24 17:12:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-24 17:12:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-24 17:12:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-24 17:12:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-24 17:12:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-24 17:12:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-24 17:12:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2026-08-24 17:12:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+2026-08-24 17:12:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-24 17:12:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-24 17:12:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-24 17:12:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-24 17:12:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-24 17:12:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-24 17:12:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-24 17:12:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-24 17:12:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-24 17:12:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-24 17:12:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-24 17:12:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-08-24 17:12:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-24 17:12:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-24 17:12:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-24 17:12:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-24 17:12:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-24 17:12:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-24 17:12:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-24 17:12:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-24 17:12:25 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ASUS\AppData\Local\Temp\testng-eclipse-2047220665\testng-customsuite.xml
+
+2026-08-24 17:12:25 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2026-08-24 17:12:25 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@7ac2e39b: 113 ms
+2026-08-24 17:12:25 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@70efb718: 34 ms
+2026-08-24 17:12:25 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@14d14731: 31 ms
+2026-08-24 17:12:25 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@33aeca0b: 9 ms
+2026-08-24 17:12:25 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7c098bb3: 9 ms
+2026-08-24 17:12:25 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@31e4bb20: 0 ms
+2026-08-24 17:12:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-24 17:12:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-08-24 17:12:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-24 17:12:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-24 17:12:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-24 17:12:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-24 17:12:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-24 17:12:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-24 17:12:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2026-08-24 17:12:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+2026-08-24 17:12:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-24 17:12:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-24 17:12:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-24 17:12:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-24 17:12:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-24 17:12:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-24 17:12:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-24 17:12:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-24 17:12:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-24 17:12:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-24 17:12:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-24 17:12:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-24 17:12:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-24 17:12:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-24 17:12:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-24 17:12:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-24 17:12:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-24 17:12:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-24 17:12:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-24 17:12:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-24 17:12:47 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ASUS\AppData\Local\Temp\testng-eclipse-25395843\testng-customsuite.xml
+
+2026-08-24 17:12:47 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2026-08-24 17:12:48 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@78365cfa: 131 ms
+2026-08-24 17:12:48 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@b70da4c: 23 ms
+2026-08-24 17:12:48 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@2eced48b: 34 ms
+2026-08-24 17:12:48 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@43aaf813: 8 ms
+2026-08-24 17:12:48 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7c098bb3: 9 ms
+2026-08-24 17:12:48 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@31e4bb20: 0 ms
+2026-08-24 18:00:42 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\ASUS\eclipse-workspace\Framework\src\test\java\testcase\Master1.xml] otherwise TestNG may fail or not work as expected.
